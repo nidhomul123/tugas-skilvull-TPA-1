@@ -19,7 +19,6 @@ Pastikan Repository GitHub dan Link Website dapat diakses secara publik
 
 
 ####Penilaian akan dilakukan dari beberapa hal:
-
 Kode HTML dan CSS yang terorganisasi dengan baik
 Jumlah halaman website yang sesuai
 Konten yang sesuai dengan setiap peserta. Tidak boleh menggunakan konten dummy.
